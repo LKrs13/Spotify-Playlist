@@ -1,5 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import logo from './logo.svg';
+import SearchBar from './SearchBar';
+import SearchResults from './SearchResults';
+import Playlist from './Playlist';
+import style from './App.css';
 
 function App() {
   return (
